@@ -1,5 +1,7 @@
 # Excel to Aiken Format Converter
 
+[![Made by AtlasTech](https://img.shields.io/badge/Made%20by-AtlasTech-blue)](https://atlastech.it)
+
 This script converts Excel files containing quiz questions into Aiken format, which is commonly used in learning management systems like Moodle. It will create separate Aiken files for each argument/topic.
 
 ## Requirements
